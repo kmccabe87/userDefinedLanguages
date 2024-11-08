@@ -2514,6 +2514,14 @@
             "author": "Peter Nell <mailto:peter.nell@magellan.aero>"
         },
         {
+            "id-name": "STRATUS_RegEx_Dark_bykmccabe87",
+            "display-name": "STRATUS RegEx Dark",
+            "version": "Fri, 8 Nov 2024 09:06:39 PST",
+            "repository": "https://sourceforge.net/projects/udlstrtemplate/files/userDefineLang_STRATUS_RegEx_Dark_V1.3.xml",
+            "description": "GTP STRATUS Expression Language",
+            "author": "Kyle McCabe <mailto:kmccabe87@gmail.com>"
+        },
+        {
             "id-name": "StringTemplate3_byAnnaCzerwiec",
             "display-name": "StringTemplate3",
             "version": "Sun, 26 Jan 2020 22:42:39 GMT",
